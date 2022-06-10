@@ -1,7 +1,6 @@
 
 # Web App Specification: Manage Your School
 
-Description for a Web App: “Manage Your School”
 
 The purpose of the “Manage Your School” app running on the manage-your-school.com domain is the administration of the students, teachers and classes for an elementary school of 4 years duration. This means there will be 1st, 2nd, 3rd and 4th class level and each level may be divided into groups depending on the number of students. We set our size limit for a class to 15 students in order to enable a proper learning experience for the children. That means if we have, e.g., 45 students in the 1st grade, then there will 3 different classes on class level 1, namely: class 1a, class 1b and class c.	 
 
