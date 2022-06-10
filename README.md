@@ -13,7 +13,7 @@ Of course this means that every class must have a teacher as head of class but n
 Furthermore, our app also needs to be able to support the student administration: enrolling new students and managing their data, updating their data if something changes and removing them from our system, if they change school or graduate. For a student we need their personal data, their grade level (1-4), their class (e.g. “2a) and their average grade.
 <br>
 
-##We also want to have an overview of the different classes including the class name (e.g. “4c”), who is the head of each class, how many students are in it and its grade average. Of course it should also be possible to update class information, such as the number of students, which might change, as well as the students’ grade average.	
+#We also want to have an overview of the different classes including the class name (e.g. “4c”), who is the head of each class, how many students are in it and its grade average. Of course it should also be possible to update class information, such as the number of students, which might change, as well as the students’ grade average.	
 
 The supported information management tasks should be as follows:
 - Show all teachers in a suitable table with all their data
