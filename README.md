@@ -15,22 +15,24 @@ Furthermore, our app also needs to be able to support the student administration
 We also want to have an overview of the different classes including the class name (e.g. “4c”), who is the head of each class, how many students are in it and its grade average. Of course it should also be possible to update class information, such as the number of students, which might change, as well as the students’ grade average.	
 
 The supported information management tasks should be as follows:
--	Show all teachers in a suitable table with all their data
--	Hire a new teacher: teacher ID, first name, family name, address, birthdate, subjects, assigned class (if applicable)
--	Update the data for an existing teacher: family name, address, subjects, assigned class
--	Dismiss a teacher
+- Show all teachers in a suitable table with all their data
+- Hire a new teacher: teacher ID, first name, family name, address, birthdate, subjects, assigned class (if applicable)
+- Update the data for an existing teacher: family name, address, subjects, assigned class
+- Dismiss a teacher
 
--	Show all students in a suitable table with all their data
--   Enroll a new student: student ID, name, birthdate, age, phone number, grade (1-4), class (e.g. 3b), average grade (if applicable)
--	Update the data for an existing student: age, phone number, grade, class, average grade (if applicable)
--	Dismiss a student (due to graduation or change of school)
 
--	Show existing classes in a suitable table with all their data
--	Create a new class: class ID, level (1-4), name (e.g. “2b”), number of students (max 15), grade average of all students in the class (if applicable)
--	Update an existing class: number of students, grade average of all students in the class (if applicable)
--	Delete a class
+- Show all students in a suitable table with all their data
+- Enroll a new student: student ID, name, birthdate, age, phone number, grade (1-4), class (e.g. 3b), average grade (if applicable)
+- Update the data for an existing student: age, phone number, grade, class, average grade (if applicable)
+- Dismiss a student (due to graduation or change of school)
 
-sdfgdhgfgfhdgsfsgdhfjg
+
+- Show existing classes in a suitable table with all their data
+- Create a new class: class ID, level (1-4), name (e.g. “2b”), number of students (max 15), grade average of all students in the class (if applicable)
+- Update an existing class: number of students, grade average of all students in the class (if applicable)
+- Delete a class
+
+
 
 
 
