@@ -11,8 +11,9 @@ As for the assigned class of a teacher: Some teachers have a class, which they a
 Of course this means that every class must have a teacher as head of class but not every teacher has to be the head of a class, i.e. not every teacher has an assigned class. The remaining teachers simply teach their subjects to classes without being assigned to any one class in particular. It is worth noting, that in order for a head of class to form a closer bond with the children in their class, we want to have them spend as much time together as possible during the classes because we want the children to have a type of parent figure in school. For this reason, we made a rule that the head of class must also be the teacher in his class for his/her assigned class in all the subjects that he/she teaches. Apart from this, teachers may be assigned freely to teach subjects to classes. Of course, a head of class teacher may also teach his/her subjects to any other class in addition to his assigned class.	 
 
 Furthermore, our app also needs to be able to support the student administration: enrolling new students and managing their data, updating their data if something changes and removing them from our system, if they change school or graduate. For a student we need their personal data, their grade level (1-4), their class (e.g. “2a) and their average grade.
+<br>
 
-We also want to have an overview of the different classes including the class name (e.g. “4c”), who is the head of each class, how many students are in it and its grade average. Of course it should also be possible to update class information, such as the number of students, which might change, as well as the students’ grade average.	
+##We also want to have an overview of the different classes including the class name (e.g. “4c”), who is the head of each class, how many students are in it and its grade average. Of course it should also be possible to update class information, such as the number of students, which might change, as well as the students’ grade average.	
 
 The supported information management tasks should be as follows:
 - Show all teachers in a suitable table with all their data
