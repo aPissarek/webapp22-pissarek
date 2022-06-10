@@ -25,12 +25,14 @@ The supported information management tasks should be as follows:
 - Enroll a new student: student ID, name, birthdate, age, phone number, grade (1-4), class (e.g. 3b), average grade (if applicable)
 - Update the data for an existing student: age, phone number, grade, class, average grade (if applicable)
 - Dismiss a student (due to graduation or change of school)
+ <br> 
 
 
 - Show existing classes in a suitable table with all their data
 - Create a new class: class ID, level (1-4), name (e.g. “2b”), number of students (max 15), grade average of all students in the class (if applicable)
 - Update an existing class: number of students, grade average of all students in the class (if applicable)
 - Delete a class
+ <br> 
 
 
 
