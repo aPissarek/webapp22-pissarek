@@ -19,7 +19,7 @@ The supported information management tasks should be as follows:
 - Hire a new teacher: teacher ID, first name, family name, address, birthdate, subjects, assigned class (if applicable)
 - Update the data for an existing teacher: family name, address, subjects, assigned class
 - Dismiss a teacher
-
+ <br> 
 
 - Show all students in a suitable table with all their data
 - Enroll a new student: student ID, name, birthdate, age, phone number, grade (1-4), class (e.g. 3b), average grade (if applicable)
