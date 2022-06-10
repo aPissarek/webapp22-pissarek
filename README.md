@@ -16,8 +16,8 @@ Furthermore, our app also needs to be able to support the student administration
 We also want to have an overview of the different classes including the class name (e.g. “4c”), who is the head of each class, how many students are in it and its grade average. Of course it should also be possible to update class information, such as the number of students, which might change, as well as the students’ grade average.	
 
 <br> 
- The supported information management tasks should be as follows:
-<br> 
+ The supported information management tasks should be as follows: <br> 
+<br>   
 
 - Show all teachers in a suitable table with all their data
 - Hire a new teacher: teacher ID, first name, family name, address, birthdate, subjects, assigned class (if applicable)
