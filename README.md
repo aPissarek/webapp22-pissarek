@@ -42,9 +42,11 @@ We also want to have an overview of the different classes including the class na
 <br>
 <img src="images/UML_domain.png">
 <br>
+
 ### Design:
 <br>
-<img sre="images/Design_hierarchy">
+<img src="images/Design_hierarchy">
+<br>
 
 
 
