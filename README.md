@@ -45,7 +45,7 @@ We also want to have an overview of the different classes including the class na
 
 ### Design:
 <br>
-<img src="images/Design_hierarchy">
+<img src="images/Design_hierarchy.png">
 <br>
 
 
