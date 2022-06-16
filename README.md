@@ -37,6 +37,17 @@ We also want to have an overview of the different classes including the class na
 - Delete a class
  <br> 
 
+## Domain and design diagrams
+### Domain:
+<br>
+<img src="images/UML_domain.png">
+<br>
+
+### Design:
+<br>
+<img src="images/Design_hierarchy.png">
+<br>
+
 
 
 
